@@ -1,0 +1,22 @@
+div{
+    height: 100px;
+    width: 100px;
+    background: lightcoral;
+    color: black;
+}
+
+.light{
+    background: white;
+
+}
+
+.dark{
+    background: black;
+}
+
+.pink{
+    background: pink;
+}
+.green{
+    background: green;
+}

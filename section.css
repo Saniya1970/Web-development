@@ -1,0 +1,12 @@
+body h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header.main ul{
+color: blueviolet;
+}
+header.main>h1{
+ color: pink;
+}
+header.main ul+p{
+    color: red;
+}
